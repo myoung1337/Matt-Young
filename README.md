@@ -1,11 +1,11 @@
 # Matt Young — Web & Mobile App Developer
 
- About to graduate from CDI College with a diploma in Web & Mobile App Development (Nov 2025).  
+ Graduated from CDI College with a degree in Web & Mobile App Development (Nov 2025).  
  I specialize in building clean, responsive web interfaces and dynamic browser-based tools using HTML, CSS, and JavaScript.  
  I also enjoy building Android apps and experimenting with Python for automation and utilities.
 
 ## Skills
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), jQuery
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React
 - **Backend basics**: Python, Node.js (learning)
 - **Mobile**: Android Studio, XML layouts, Java (basic)
 - **Tools**: Git, GitHub, VS Code, Chrome DevTools
